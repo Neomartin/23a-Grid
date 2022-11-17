@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #222;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grid-container {
+    background-color: brown;
+}
